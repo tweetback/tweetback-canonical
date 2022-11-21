@@ -8,10 +8,12 @@ test("normalizeUrlSlashes", t => {
 	t.is(normalizeUrlSlashes("/test/", "/test/"), "/test/test/");
 });
 
-test("Missing", t => {
+test("Missing from mapping (passthrough)", t => {
 	t.throws(() => transform("@test"));
 	t.is(transform("https://example.com"), "https://example.com");
 	t.is(transform("https://example.com/"), "https://example.com/");
+	t.is(transform("/"), "/");
+	t.is(transform("ht/twit"), "ht/twit");
 });
 
 
@@ -39,9 +41,4 @@ test("Preserve trailing slashes", t=> {
 
 	t.is(transform("@eleven_ty/123/"), "https://twitter.11ty.dev/123/");
 	t.is(transform("https://twitter.com/eleven_ty/status/123/"), "https://twitter.11ty.dev/123/");
-});
-
-test("Errors", t => {
-	// bad url
-	t.throws(() => transform("ht/twit"));
 });
