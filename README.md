@@ -11,6 +11,16 @@ npm install @tweetback/canonical
 ## Usage
 
 ```js
+transform("https://twitter.com/zachleat");
+// Returns "https://www.zachleat.com/twitter/"
+
+transform("https://twitter.com/eleven_ty");
+// Returns "https://twitter.11ty.dev/"
+```
+
+Works with usernames:
+
+```js
 import {transform} from "@tweetback/canonical";
 
 transform("@zachleat");
