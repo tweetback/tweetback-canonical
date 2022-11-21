@@ -1,5 +1,5 @@
 {
-  "name": "tweetback-canonical",
+  "name": "@tweetback/canonical",
   "version": "1.0.0",
   "description": "",
   "type": "module",
