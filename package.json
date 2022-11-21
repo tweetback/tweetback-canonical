@@ -11,6 +11,14 @@
   "contributors": [
     "Zach Leatherman <zachleatherman@gmail.com> (https://zachleat.com/)"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tweetback/tweetback-canonical.git"
+  },
+  "homepage": "https://github.com/tweetback/tweetback-canonical#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "devDependencies": {
     "ava": "^5.1.0"
