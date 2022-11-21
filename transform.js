@@ -12,14 +12,6 @@ function isFullUrl(url) {
 }
 
 function parseSource(source) {
-	if(source.startsWith("@")) {
-		let [username, statusId] = source.split("/");
-		return {
-			username: username.slice(1),
-			status: statusId,
-		}
-	}
-
 	let urlObject = new URL(source);
 	if(urlObject.hostname === "twitter.com") {
 		let [noop, username, statusStr, statusId] = urlObject.pathname.split("/");
@@ -40,19 +32,14 @@ export function normalizeUrlSlashes(...args) {
 	return joined.split(path.sep).join("/");
 }
 
-// source can be a username starting with an @: e.g. @zachleat
-// or a full tweet URL
+// source can be a path or a full tweet URL
 export function transform(source) {
-	let startsWithAt = source.startsWith("@");
-	if(!isFullUrl(source) && !startsWithAt) {
+	// passthrough
+	if(!isFullUrl(source)) {
 		return source;
 	}
 
 	let { username, status } = parseSource(source);
-
-	if(username && startsWithAt && !mapping[username]) {
-		throw new Error(`Username mapping for @${username} not found.`)
-	}
 
 	if(username && mapping[username]) {
 		let urlObject = new URL(mapping[username]);
