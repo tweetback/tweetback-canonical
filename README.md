@@ -32,10 +32,10 @@ transform("https://twitter.com/zachleat/status/123");
 
 Other features:
 
-* Preserves trailing slashes
-* Throws an error if you try to transform an unknown username (starts with `@`)
-* Passthrough any other URLs normally.
-* Normalizes slashes in the pathname properly
+* Passthrough any valid URLs as normal.
+* Throws an error if you try to transform an unknown username (starting with an `@`)
+* Preserves trailing slashes (trailing slashes are optional)
+* Normalizes duplicate slashes in the pathname
 
 ## Add your own Twitter Archive:
 
