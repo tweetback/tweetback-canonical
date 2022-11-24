@@ -6,5 +6,6 @@ export const mapping = {
 	"nhoizey": "https://twitter.nicolas-hoizey.com",
 	"rknightuk": "https://hellsite.rknight.me",
 	"steren": "https://twitter.steren.fr",
-	"saneef": "https://tweets.saneef.com/"
+	"saneef": "https://tweets.saneef.com/",
+	"accudio": "https://twitter.alistairshepherd.uk"
 };
