@@ -8,6 +8,9 @@ export const mapping = {
 	"steren": "https://twitter.steren.fr",
 	"saneef": "https://tweets.saneef.com/",
 	"accudio": "https://twitter.alistairshepherd.uk",
+	"cutewitchphoebe": "https://twitter.catgirlin.space",
+	"madelinecatgirl": "https://twitter.catgirlin.space",
+	"purplevioletsky": "https://twitter.catgirlin.space",
 	"type__error": "https://twitter.localghost.dev",
 	"Chr1sHayes": "https://tweetback.hayes.software",
 	"terribleMia": "https://tweets.miriamsuzanne.com"
