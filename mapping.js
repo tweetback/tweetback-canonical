@@ -7,5 +7,6 @@ export const mapping = {
 	"rknightuk": "https://hellsite.rknight.me",
 	"steren": "https://twitter.steren.fr",
 	"saneef": "https://tweets.saneef.com/",
-	"accudio": "https://twitter.alistairshepherd.uk"
+	"accudio": "https://twitter.alistairshepherd.uk",
+	"terribleMia": "https://tweets.miriamsuzanne.com"
 };
