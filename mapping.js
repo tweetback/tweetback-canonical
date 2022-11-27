@@ -13,5 +13,6 @@ export const mapping = {
 	"purplevioletsky": "https://twitter.catgirlin.space",
 	"type__error": "https://twitter.localghost.dev",
 	"Chr1sHayes": "https://tweetback.hayes.software",
-	"terribleMia": "https://tweets.miriamsuzanne.com"
+	"terribleMia": "https://tweets.miriamsuzanne.com",
+	"iamchrisburnell": "https://twitter.chrisburnell.com"
 };
