@@ -9,4 +9,5 @@ export const mapping = {
 	"saneef": "https://tweets.saneef.com/",
 	"accudio": "https://twitter.alistairshepherd.uk",
 	"Chr1sHayes": "https://tweetback.hayes.software",
+	"terribleMia": "https://tweets.miriamsuzanne.com"
 };
