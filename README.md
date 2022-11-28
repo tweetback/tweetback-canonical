@@ -11,6 +11,8 @@ npm install @tweetback/canonical
 ## Usage
 
 ```js
+import {transform} from "@tweetback/canonical";
+
 transform("https://twitter.com/zachleat");
 // Returns "https://www.zachleat.com/twitter/"
 
