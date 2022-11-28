@@ -14,5 +14,6 @@ export const mapping = {
 	"type__error": "https://twitter.localghost.dev",
 	"Chr1sHayes": "https://tweetback.hayes.software",
 	"terribleMia": "https://tweets.miriamsuzanne.com",
-	"iamchrisburnell": "https://twitter.chrisburnell.com"
+	"iamchrisburnell": "https://twitter.chrisburnell.com",
+	"overflowhidden": "https://tweets.kimjohannesen.dk"
 };
