@@ -34,3 +34,8 @@ test("Preserve trailing slashes", t=> {
 	t.is(transform("https://twitter.com/zachleat/status/123/"), "https://www.zachleat.com/twitter/123/");
 	t.is(transform("https://twitter.com/eleven_ty/status/123/"), "https://twitter.11ty.dev/123/");
 });
+
+test("Case sensitivity", t=> {
+	t.is(transform("https://twitter.com/terribleMia/status/123/"), "https://tweets.miriamsuzanne.com/123/");
+	t.is(transform("https://twitter.com/terriblemia/status/123/"), "https://tweets.miriamsuzanne.com/123/");
+});

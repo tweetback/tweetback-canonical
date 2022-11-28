@@ -2,6 +2,11 @@ import path from "path";
 import {URL} from "url";
 import {mapping} from "./mapping.js";
 
+const lowercaseMapping = {};
+for(let key in mapping) {
+	lowercaseMapping[key.toLowerCase()] = mapping[key];
+}
+
 function isFullUrl(url) {
 	try {
 		new URL(url);
@@ -16,7 +21,8 @@ function parseSource(source) {
 	if(urlObject.hostname === "twitter.com") {
 		let [noop, username, statusStr, statusId] = urlObject.pathname.split("/");
 		return {
-			username: username,
+			// normalize to lower case
+			username: username.toLowerCase(),
 			url: source,
 			status: statusId,
 		}
@@ -41,8 +47,8 @@ export function transform(source) {
 
 	let { username, status } = parseSource(source);
 
-	if(username && mapping[username]) {
-		let urlObject = new URL(mapping[username]);
+	if(username && lowercaseMapping[username]) {
+		let urlObject = new URL(lowercaseMapping[username]);
 		urlObject.pathname = normalizeUrlSlashes(urlObject.pathname, status);
 
 		let urlString = urlObject.toString();
