@@ -17,5 +17,6 @@ export const mapping = {
 	"iamchrisburnell": "https://twitter.chrisburnell.com",
 	"overflowhidden": "https://tweets.kimjohannesen.dk",
 	"lindqvistus": "https://twitter.gustavlindqvist.se",
-	"sil": "https://kryogenix.org/twitter/"
+	"sil": "https://kryogenix.org/twitter/",
+	"axbom": "https://twitter.axbom.com"
 };
