@@ -8,6 +8,5 @@
     "@semantic-release/github",
     "@semantic-release/git"
   ],
-  "preset": "angular",
-  "dryRun": true
+  "preset": "angular"
 }
