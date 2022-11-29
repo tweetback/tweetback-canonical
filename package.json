@@ -5,7 +5,8 @@
   "type": "module",
   "main": "transform.js",
   "scripts": {
-    "test": "npx ava"
+    "test": "npx ava",
+    "semantic-release": "semantic-release"
   },
   "keywords": [],
   "contributors": [
@@ -13,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tweetback/tweetback-canonical.git"
+    "url": "https://github.com/tweetback/tweetback-canonical.git"
   },
   "homepage": "https://github.com/tweetback/tweetback-canonical#readme",
   "publishConfig": {
@@ -21,6 +22,9 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "ava": "^5.1.0"
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "ava": "^5.1.0",
+    "semantic-release": "^19.0.5"
   }
 }
