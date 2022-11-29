@@ -15,5 +15,6 @@ export const mapping = {
 	"Chr1sHayes": "https://tweetback.hayes.software",
 	"terribleMia": "https://tweets.miriamsuzanne.com",
 	"iamchrisburnell": "https://twitter.chrisburnell.com",
-	"overflowhidden": "https://tweets.kimjohannesen.dk"
+	"overflowhidden": "https://tweets.kimjohannesen.dk",
+	"lindqvistus": "https://twitter.gustavlindqvist.se"
 };
