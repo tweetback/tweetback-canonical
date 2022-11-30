@@ -18,5 +18,6 @@ export const mapping = {
 	"overflowhidden": "https://tweets.kimjohannesen.dk",
 	"lindqvistus": "https://twitter.gustavlindqvist.se",
 	"sil": "https://kryogenix.org/twitter/",
-	"axbom": "https://twitter.axbom.com"
+	"axbom": "https://twitter.axbom.com",
+	"dryan": "https://dryan.com/tweets/",
 };
