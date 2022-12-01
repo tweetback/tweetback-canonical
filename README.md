@@ -39,6 +39,8 @@ You needn’t use tweetback to add your archive here. The only requirement here 
 
 Just create a PR with your addition to the `mapping.js` file and we’ll have a look!
 
+Please start your commit message with `mapping: `, it helps speed up the npm package release process.
+
 ## The best example
 
-This status https://twitter.11ty.dev/1559312029340557315 links to @TerribleMia’s archive which links *back* to the @eleven_ty archive. Threading across archives 🏆 while allowing each instance to maintain their own data.
+This status https://twitter.11ty.dev/1559312029340557315 links to @TerribleMia’s archive which links _back_ to the @eleven_ty archive. Threading across archives 🏆 while allowing each instance to maintain their own data.
