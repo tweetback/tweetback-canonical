@@ -4,7 +4,9 @@
     [
       "@semantic-release/commit-analyzer",
       {
-        "releaseRules": [{ "scope": "mapping.js", "release": "patch" }]
+        "releaseRules": [
+          { "type": "mapping", "scope": "mapping.js", "release": "patch" }
+        ]
       }
     ],
     "@semantic-release/release-notes-generator",
