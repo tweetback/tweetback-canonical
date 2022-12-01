@@ -20,5 +20,6 @@ export const mapping = {
 	"sil": "https://kryogenix.org/twitter/",
 	"axbom": "https://twitter.axbom.com",
 	"dryan": "https://dryan.com/tweets/",
+	"edwardandrews": "https://tweets.aldreth.com/",
 	"lewisdaleuk": "https://twitter.lewisdale.dev",
 };
