@@ -1,6 +1,6 @@
 {
   "name": "@tweetback/canonical",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "A package to resolve twitter URLs to new canonically hosted twitter backups.",
   "type": "module",
   "main": "transform.js",
