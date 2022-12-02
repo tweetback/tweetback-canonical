@@ -4,6 +4,8 @@ A package to resolve twitter URLs to new canonically hosted twitter backups.
 
 ## Installation
 
+The package is available on npm: https://www.npmjs.com/package/@tweetback/canonical
+
 ```
 npm install @tweetback/canonical
 ```
