@@ -23,4 +23,5 @@ export const mapping = {
 	"edwardandrews": "https://tweets.aldreth.com/",
 	"lewisdaleuk": "https://twitter.lewisdale.dev",
 	"ZekeAranyLucas": "https://zekearanylucas.github.io/tweets/",
+	"jefflembeck": "https://twitter.jefflembeck.com"
 };
