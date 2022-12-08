@@ -28,5 +28,7 @@ export const mapping = {
 	"jefflembeck": "https://twitter.jefflembeck.com",
 	"philhawksworth": "https://www.hawksworx.com/note/tw/",
 	"404boyfriend": "https://tweets.henry.codes",
+  "xdesro": "https://tweets.henry.codes",
 	"colinaut": "https://twitter.colinaut.com",
+	"ginader": "http://tweets.ginader.com/"
 };
