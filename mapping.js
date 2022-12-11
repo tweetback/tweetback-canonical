@@ -30,5 +30,6 @@ export const mapping = {
 	"404boyfriend": "https://tweets.henry.codes",
   "xdesro": "https://tweets.henry.codes",
 	"colinaut": "https://twitter.colinaut.com",
-	"ginader": "http://tweets.ginader.com/"
+	"ginader": "http://tweets.ginader.com/",
+	"Noleli": "https://projects.noahliebman.net/twitter/"
 };
