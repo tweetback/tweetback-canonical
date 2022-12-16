@@ -32,5 +32,6 @@ export const mapping = {
 	"colinaut": "https://twitter.colinaut.com",
 	"ginader": "http://tweets.ginader.com/",
 	"Noleli": "https://projects.noahliebman.net/twitter/",
-	"gauntface": "https://twitterarchive.gaunt.dev/"
+	"gauntface": "https://twitterarchive.gaunt.dev/",
+	"jakejarvis": "https://tweets.jarv.is/"
 };
