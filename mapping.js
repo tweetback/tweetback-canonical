@@ -35,5 +35,6 @@ export const mapping = {
 	"gauntface": "https://twitterarchive.gaunt.dev/",
 	"jakejarvis": "https://tweets.jarv.is/",
 	"mvsde": "https://twitter.fynn.be/",
-	"samthegeek": "https://twarchive.samthegeek.net/"
+	"samthegeek": "https://twarchive.samthegeek.net/",
+	"rene_mobile": "https://twitterarchive.mayrhofer.eu.org/"
 };
