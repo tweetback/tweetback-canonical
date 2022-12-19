@@ -36,5 +36,6 @@ export const mapping = {
 	"jakejarvis": "https://tweets.jarv.is/",
 	"mvsde": "https://twitter.fynn.be/",
 	"samthegeek": "https://twarchive.samthegeek.net/",
-	"rene_mobile": "https://twitterarchive.mayrhofer.eu.org/"
+	"rene_mobile": "https://twitterarchive.mayrhofer.eu.org/",
+	"sentience": "https://kevinyank.com/twitter/",
 };
