@@ -38,4 +38,5 @@ export const mapping = {
 	"samthegeek": "https://twarchive.samthegeek.net/",
 	"rene_mobile": "https://twitterarchive.mayrhofer.eu.org/",
 	"sentience": "https://kevinyank.com/twitter/",
+	"jed_fox1": "https://tweets.jedfox.com",
 };
