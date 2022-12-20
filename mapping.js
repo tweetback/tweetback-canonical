@@ -40,4 +40,5 @@ export const mapping = {
 	"sentience": "https://kevinyank.com/twitter/",
 	"cjtype": "https://twitterarchive.cjtype.com/",
 	"jed_fox1": "https://tweets.jedfox.com",
+	"capsinthehouse": "http://capsinthehouse.twitter-archive.reinhart1010.id",
 };
