@@ -1,3 +1,10 @@
+## [2.0.19](https://github.com/tweetback/tweetback-canonical/compare/v2.0.18...v2.0.19) (2022-12-20)
+
+
+### Bug Fixes
+
+* Use HTTPS instead ([58df843](https://github.com/tweetback/tweetback-canonical/commit/58df8434f8da1d2da821bd1b3e5540a10aba2759))
+
 ## [2.0.18](https://github.com/tweetback/tweetback-canonical/compare/v2.0.17...v2.0.18) (2022-12-20)
 
 ## [2.0.17](https://github.com/tweetback/tweetback-canonical/compare/v2.0.16...v2.0.17) (2022-12-19)
