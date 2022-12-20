@@ -39,5 +39,5 @@ export const mapping = {
 	"rene_mobile": "https://twitterarchive.mayrhofer.eu.org/",
 	"sentience": "https://kevinyank.com/twitter/",
 	"cjtype": "https://twitterarchive.cjtype.com/",
-	
+	"jed_fox1": "https://tweets.jedfox.com",
 };
