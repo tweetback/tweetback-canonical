@@ -41,4 +41,5 @@ export const mapping = {
 	"cjtype": "https://twitterarchive.cjtype.com/",
 	"jed_fox1": "https://tweets.jedfox.com",
 	"capsinthehouse": "https://capsinthehouse.twitter-archive.reinhart1010.id",
+	"santumerino": "https://www.santumerino.com/twitterarchive/",
 };
