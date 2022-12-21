@@ -42,4 +42,5 @@ export const mapping = {
 	"jed_fox1": "https://tweets.jedfox.com",
 	"capsinthehouse": "https://capsinthehouse.twitter-archive.reinhart1010.id",
 	"santumerino": "https://www.santumerino.com/twitterarchive/",
+	"codefoodpixels": "https://tweets.lukeb.co.uk/",
 };
