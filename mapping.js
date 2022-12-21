@@ -43,4 +43,5 @@ export const mapping = {
 	"capsinthehouse": "https://capsinthehouse.twitter-archive.reinhart1010.id",
 	"santumerino": "https://www.santumerino.com/twitterarchive/",
 	"codefoodpixels": "https://tweets.lukeb.co.uk/",
+	"cooljeanius": "https://cooljeanius.github.io/my_tweetback_archive/",
 };
