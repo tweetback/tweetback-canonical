@@ -44,4 +44,6 @@ export const mapping = {
 	"santumerino": "https://www.santumerino.com/twitterarchive/",
 	"codefoodpixels": "https://tweets.lukeb.co.uk/",
 	"piraces_": "https://tweets.piraces.dev/",
+	"bandit": "https://tweets.jamesn.net/",
+	"mknepprath": "https://twitter.mknepprath.com/",
 };
