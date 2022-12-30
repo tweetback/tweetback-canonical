@@ -46,4 +46,5 @@ export const mapping = {
 	"piraces_": "https://tweets.piraces.dev/",
 	"bandit": "https://tweets.jamesn.net/",
 	"mknepprath": "https://twitter.mknepprath.com/",
+	"AaronGustafson": "https://twitter.aaron-gustafson.com",
 };
