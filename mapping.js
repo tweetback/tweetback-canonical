@@ -48,4 +48,6 @@ export const mapping = {
 	"mknepprath": "https://twitter.mknepprath.com/",
 	"AaronGustafson": "https://twitter.aaron-gustafson.com",
 	"cooljeanius": "https://cooljeanius.github.io/my_tweetback_archive/",
+	"linusgroh": "https://twitter.linus.dev",
+	"MinaMarkham": "https://tweets.mina.codes",
 };
