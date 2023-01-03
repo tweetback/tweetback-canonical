@@ -49,4 +49,5 @@ export const mapping = {
 	"AaronGustafson": "https://twitter.aaron-gustafson.com",
 	"linusgroh": "https://twitter.linus.dev",
 	"MinaMarkham": "https://tweets.mina.codes",
+	"markemer": "https://markemer.blue"
 };
