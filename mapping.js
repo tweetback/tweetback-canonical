@@ -50,5 +50,6 @@ export const mapping = {
 	"linusgroh": "https://twitter.linus.dev",
 	"MinaMarkham": "https://tweets.mina.codes",
 	"markemer": "https://markemer.blue",
-	"bmann": "https://twitter.bmannconsulting.com"
+	"bmann": "https://twitter.bmannconsulting.com",
+	"_dhar": "https://olivier.audard.net/twitter/",
 };
