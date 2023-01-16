@@ -53,4 +53,5 @@ export const mapping = {
 	"bmann": "https://twitter.bmannconsulting.com",
 	"_dhar": "https://olivier.audard.net/twitter/",
 	"Robbb_J": "https://tweets.r0b.io/",
+	"lachlanjc": "https://tweets.lachlanjc.com",
 };
