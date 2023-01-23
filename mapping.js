@@ -54,4 +54,5 @@ export const mapping = {
 	"_dhar": "https://olivier.audard.net/twitter/",
 	"Robbb_J": "https://tweets.r0b.io/",
 	"lachlanjc": "https://tweets.lachlanjc.com",
+	"batbeeps": "https://tweets.beeps.website/",
 };
