@@ -55,4 +55,5 @@ export const mapping = {
 	"Robbb_J": "https://tweets.r0b.io/",
 	"lachlanjc": "https://tweets.lachlanjc.com",
 	"batbeeps": "https://tweets.beeps.website/",
+	"kennethson": "https://twitter.ksbarnt.com",
 };
