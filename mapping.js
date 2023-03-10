@@ -50,4 +50,12 @@ export const mapping = {
 	"cooljeanius": "https://cooljeanius.github.io/my_tweetback_archive/",
 	"linusgroh": "https://twitter.linus.dev",
 	"MinaMarkham": "https://tweets.mina.codes",
+	"markemer": "https://markemer.blue",
+	"bmann": "https://twitter.bmannconsulting.com",
+	"_dhar": "https://olivier.audard.net/twitter/",
+	"Robbb_J": "https://tweets.r0b.io/",
+	"lachlanjc": "https://tweets.lachlanjc.com",
+	"batbeeps": "https://tweets.beeps.website/",
+	"kennethson": "https://twitter.ksbarnt.com",
+	"sebduggan": "https://tweetback.sebduggan.uk",
 };
