@@ -58,4 +58,5 @@ export const mapping = {
 	"kennethson": "https://twitter.ksbarnt.com",
 	"sebduggan": "https://tweetback.sebduggan.uk",
 	"edm00se": "https://tweets.edm00se.codes/",
+	"box464": "https://twitter.box464.com"
 };
