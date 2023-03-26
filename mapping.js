@@ -57,5 +57,6 @@ export const mapping = {
 	"batbeeps": "https://tweets.beeps.website/",
 	"kennethson": "https://twitter.ksbarnt.com",
 	"sebduggan": "https://tweetback.sebduggan.uk",
-	"box464": "https://twitter.box464.com",
+	"edm00se": "https://tweets.edm00se.codes/",
+	"box464": "https://twitter.box464.com"
 };
