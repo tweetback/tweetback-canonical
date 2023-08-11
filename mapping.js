@@ -61,5 +61,6 @@ export const mapping = {
 	"jcolag": "https://jcolag.github.io/twitter",
 	"edm00se": "https://tweets.edm00se.codes/",
 	"box464": "https://twitter.box464.com",
-	"harlanthefox": "https://tweets.studioyip.com/"
+	"harlanthefox": "https://tweets.studioyip.com/",
+	"lorvsso": "https://twitter.jacklorusso.com"
 };
