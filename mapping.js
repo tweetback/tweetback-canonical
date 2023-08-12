@@ -62,5 +62,6 @@ export const mapping = {
 	"edm00se": "https://tweets.edm00se.codes/",
 	"box464": "https://twitter.box464.com",
 	"harlanthefox": "https://tweets.studioyip.com/",
-	"lorvsso": "https://twitter.jacklorusso.com"
+	"lorvsso": "https://twitter.jacklorusso.com",
+	"tylersticka": "https://twitter.tylersticka.com/",
 };
