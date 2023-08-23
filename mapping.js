@@ -64,4 +64,5 @@ export const mapping = {
 	"harlanthefox": "https://tweets.studioyip.com/",
 	"lorvsso": "https://twitter.jacklorusso.com",
 	"tylersticka": "https://twitter.tylersticka.com/",
+	"kanekotic": "https://tweetback.kanekotic.com/",
 };
