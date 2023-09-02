@@ -65,4 +65,5 @@ export const mapping = {
 	"lorvsso": "https://twitter.jacklorusso.com",
 	"tylersticka": "https://twitter.tylersticka.com/",
 	"kanekotic": "https://tweetback.kanekotic.com/",
+	"_julianoe": "https://julianoe.eu.org/twitter",
 };
