@@ -66,4 +66,5 @@ export const mapping = {
 	"tylersticka": "https://twitter.tylersticka.com/",
 	"kanekotic": "https://tweetback.kanekotic.com/",
 	"_julianoe": "https://julianoe.eu.org/twitter",
+	"t1mmyb": "https://twitter.timandkathy.co.uk/",
 };
