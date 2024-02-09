@@ -68,4 +68,5 @@ export const mapping = {
 	"_julianoe": "https://julianoe.eu.org/twitter",
 	"t1mmyb": "https://twitter.timandkathy.co.uk",
 	"hteumeuleu": "https://tweets.hteumeuleu.fr",
+	"mikestreety": "https://tweets.mikestreety.co.uk",
 };
