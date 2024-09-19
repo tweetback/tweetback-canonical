@@ -66,6 +66,8 @@ export const mapping = {
 	"tylersticka": "https://twitter.tylersticka.com/",
 	"kanekotic": "https://tweetback.kanekotic.com/",
 	"_julianoe": "https://julianoe.eu.org/twitter",
+	"dalelane": "https://dalelane.github.io/twitter-archive/dalelane/",
+	"MLforKids": "https://dalelane.github.io/twitter-archive/mlforkids/",
 	"t1mmyb": "https://twitter.timandkathy.co.uk",
 	"hteumeuleu": "https://tweets.hteumeuleu.fr",
 	"mikestreety": "https://tweets.mikestreety.co.uk",
