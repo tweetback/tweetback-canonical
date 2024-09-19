@@ -72,4 +72,5 @@ export const mapping = {
 	"michaelsbecker": "https://tweets.msb.fyi",
 	"glomtwit": "https://tweets.joe.gl",
 	"joeglombek": "https://tweets.joe.gl",
+	"lukestein": "https://lukestein.github.io/twitter/",
 };
