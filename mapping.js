@@ -77,4 +77,5 @@ export const mapping = {
 	"lukestein": "https://lukestein.github.io/twitter/",
 	"gesa": "https://twitter.akiro.se",
 	"Redfire75369": "https://tweet.redfire.dev/",
+	"ckirknielsen": "https://tweets.chriskirknielsen.com/",
 };
