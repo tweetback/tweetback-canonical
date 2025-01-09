@@ -79,4 +79,5 @@ export const mapping = {
 	"Redfire75369": "https://tweet.redfire.dev/",
 	"ckirknielsen": "https://tweets.chriskirknielsen.com/",
 	"zzamboni": "https://zzamboni.org/twitter/",
+	"tomayac": "https://tomayac.com/tweets/",
 };
