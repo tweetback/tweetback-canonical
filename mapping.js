@@ -80,4 +80,5 @@ export const mapping = {
 	"ckirknielsen": "https://tweets.chriskirknielsen.com/",
 	"zzamboni": "https://zzamboni.org/twitter/",
 	"tomayac": "https://tomayac.com/tweets/",
+	"boogheta": "https://boogheta.github.io/tweets-archive/",
 };
