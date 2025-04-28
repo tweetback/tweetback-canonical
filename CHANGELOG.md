@@ -1,3 +1,5 @@
+## [2.0.48](https://github.com/tweetback/tweetback-canonical/compare/v2.0.47...v2.0.48) (2025-04-28)
+
 ## [2.0.47](https://github.com/tweetback/tweetback-canonical/compare/v2.0.46...v2.0.47) (2025-04-01)
 
 ## [2.0.46](https://github.com/tweetback/tweetback-canonical/compare/v2.0.45...v2.0.46) (2024-11-22)
